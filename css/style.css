@@ -7897,7 +7897,7 @@ header {
     left: -50px;
     right: 0;
     bottom: 0;
-    font-weight: 700 !important;
+    font-weight: 700;
     color: rgba(255, 255, 255, 0.08);
     text-transform: uppercase; }
     @media (min-width: 992px) {
@@ -8787,4 +8787,18 @@ textarea.form-control {
 .devicon {
   font-size: 4rem;
   padding: 10px;
+}
+
+.resume {
+  /* height: 60px;
+  width: 60px; */
+  /* display: block; */
+  /* float: left; */
+  /* border-radius: 50%; */
+  /* top: 50%;
+  left: 50%; */
+  /* margin: 0 10px 10px 0; */
+  position: absolute;
+  padding-bottom: 10px;
+  margin: auto;
 }
