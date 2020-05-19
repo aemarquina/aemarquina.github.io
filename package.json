@@ -19,6 +19,7 @@
     "serve": "browser-sync start --server --files 'index.html, assets/styles/main.css, assets/scripts/index.js'"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.13.0",
     "devicon": "^2.2.0"
   }
 }
